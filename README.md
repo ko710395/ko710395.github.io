@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 自用学习笔记
 
-You can use the [editor on GitHub](https://github.com/ko710395/ko710395.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+自己学的python知识用文本的方式记录下来，主要目的也只是给自己复习用，以及梳理一下只知识；
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+毕竟自己脑子里想的和动手写成文本的感觉是差很多的；
 
-### Markdown
+[点我跳转到笔记](https://ko710395.github.io/Learning%20Note)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+事先声明，由于是我自己的学习笔记，对知识点的理解不保证全对，只是基于我自己的实践暂时没发现错误；
 
-```markdown
-Syntax highlighted code block
+有缘看到的大佬如果发现其中有错误，还请指出，万分感谢！~~如果真有人看到的话~~
 
-# Header 1
-## Header 2
-### Header 3
+另外就是因为是边学边记录的，所以知识点会十分零散，每隔一段时间我再整理一次；
 
-- Bulleted
-- List
+现在还是可读性很差的一长段文字，还没经过整理和分类，暂时先丢上来等以后会用GitHub Page后再好好整理一下；
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ko710395/ko710395.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Over！
