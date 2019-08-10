@@ -16,15 +16,15 @@ Over！
 
 ## 目录
 
-[*args 和 **kwargs]()
+[*args 和 **kwargs](https://ko710395.github.io/*args 和 **kwargs)
 
-[map、reduce、lambda和偏函数]()
+[map、reduce、lambda和偏函数](https://ko710395.github.io/map、reduce、lambda和偏函数)
 
-[深拷贝与浅拷贝]()
+[深拷贝与浅拷贝](https://ko710395.github.io/深拷贝与浅拷贝)
 
-[闭包与装饰器]()
+[闭包与装饰器](https://ko710395.github.io/闭包与装饰器)
 
-[With语句]()
+[With语句](https://ko710395.github.io/With语句)
 
 
 
