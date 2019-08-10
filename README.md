@@ -16,7 +16,7 @@ Over！
 
 ## 目录
 
-[\*args 和 \*\*kwargs](https://ko710395.github.io/*args 和 **kwargs)
+[\*args 和 \*\*kwargs](https://ko710395.github.io/*args%20和%20**kwargs)
 
 [map、reduce、lambda和偏函数](https://ko710395.github.io/map、reduce、lambda和偏函数)
 
