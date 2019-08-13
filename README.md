@@ -31,3 +31,6 @@ Over！
 [With语句](https://ko710395.github.io/With语句)
 
 [记默认参数的一个坑](https://ko710395.github.io/记默认参数的一个坑)
+
+[Web应用萌新才会遇到的“怪事”](https://ko710395.github.io/Web应用萌新才会遇到的"怪事")
+
