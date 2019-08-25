@@ -34,5 +34,5 @@ Over！
 
 [Web应用萌新才会遇到的怪事](https://ko710395.github.io/Web应用萌新才会遇到的怪事)
 
-
+[super函数](https://ko710395.github.io/super函数)
 
