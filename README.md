@@ -38,3 +38,4 @@ Over！
 
 [短路运算](https://ko710395.github.io/短路运算)
 
+[C3算法](https://ko710395.github.io/C3算法)
