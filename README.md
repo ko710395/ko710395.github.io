@@ -39,3 +39,5 @@ Over！
 [短路运算](https://ko710395.github.io/短路运算)
 
 [C3算法](https://ko710395.github.io/C3算法)
+
+[关于不管你知不知道反正我现在才知道的各类Python小知识合集(一)](https://ko710395.github.io/关于不管你知不知道反正我现在才知道的各类Python小知识合集(一))
